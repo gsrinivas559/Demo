@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-01T13:45:04Z" name="Command line suite" finished-at="2022-01-01T13:45:04Z" duration-ms="19">
+    <groups>
+    </groups>
+    <test started-at="2022-01-01T13:45:04Z" name="Command line test" finished-at="2022-01-01T13:45:04Z" duration-ms="19">
+      <class name="seleniumproject.MavenProject.SampleTest">
+        <test-method signature="mobileSampleTest()[pri:0, instance:seleniumproject.MavenProject.SampleTest@19bb07ed]" started-at="2022-01-01T13:45:04Z" name="mobileSampleTest" finished-at="2022-01-01T13:45:04Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileSampleTest -->
+        <test-method signature="mobileTestCase()[pri:0, instance:seleniumproject.MavenProject.SampleTest@19bb07ed]" started-at="2022-01-01T13:45:04Z" name="mobileTestCase" finished-at="2022-01-01T13:45:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileTestCase -->
+      </class> <!-- seleniumproject.MavenProject.SampleTest -->
+      <class name="seleniumproject.MavenProject.SeleniumTest">
+        <test-method signature="SeleniumSampleTest()[pri:0, instance:seleniumproject.MavenProject.SeleniumTest@10e41621]" started-at="2022-01-01T13:45:04Z" name="SeleniumSampleTest" finished-at="2022-01-01T13:45:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumSampleTest -->
+        <test-method signature="SeleniumTestCase()[pri:0, instance:seleniumproject.MavenProject.SeleniumTest@10e41621]" started-at="2022-01-01T13:45:04Z" name="SeleniumTestCase" finished-at="2022-01-01T13:45:04Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTestCase -->
+      </class> <!-- seleniumproject.MavenProject.SeleniumTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
