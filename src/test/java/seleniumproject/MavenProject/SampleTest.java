@@ -17,5 +17,10 @@ public class SampleTest {
 		// TODO Auto-generated method stub
 		System.out.println("mobileSampleTest");
 	}
+	
+	public void webSampleTest() {
+		// TODO Auto-generated method stub
+		System.out.println("webSampleTest");
+	}
 }
 
