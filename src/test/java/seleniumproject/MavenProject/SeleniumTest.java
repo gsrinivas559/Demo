@@ -18,4 +18,11 @@ public class SeleniumTest {
 		// TODO Auto-generated method stub
 		System.out.println("SeleniumSampleTest");
 	}
+	
+	@Test
+	public void SeleniumWebTest() {
+		// TODO Auto-generated method stub
+		System.out.println("SeleniumWebTest");
+	}
+
 }
