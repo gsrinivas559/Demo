@@ -14,6 +14,15 @@ public class SeleniumTest {
 	}
 	
 	@Test
+	public void AppiumTestCase() {
+		// TODO Auto-generated method stub
+		System.out.println("AppiumTestCase");
+		System.out.println("SeleniumTestCase2");
+		System.out.println("SeleniumTestCase3");
+		System.out.println("SeleniumTestCase4");
+	}
+	
+	@Test
 	public void SeleniumSampleTest() {
 		// TODO Auto-generated method stub
 		System.out.println("SeleniumSampleTest");

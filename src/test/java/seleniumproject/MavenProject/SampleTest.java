@@ -11,6 +11,12 @@ public class SampleTest {
 		System.out.println("mobileTestCase");
 		System.out.println("apiTestCase");
 	}
+
+	@Test
+	public void appiumSampleTest() {
+		// TODO Auto-generated method stub
+		System.out.println("mobileSampleTest");
+	}
 	
 	@Test
 	public void mobileSampleTest() {
