@@ -8,6 +8,8 @@ public class SeleniumTest {
 	public void SeleniumTestCase() {
 		// TODO Auto-generated method stub
 		System.out.println("SeleniumTestCase");
+		System.out.println("SeleniumTestCase2");
+		System.out.println("SeleniumTestCase3");
 	}
 	
 	@Test
