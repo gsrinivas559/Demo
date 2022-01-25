@@ -17,10 +17,16 @@ public class SampleTest {
 		// TODO Auto-generated method stub
 		System.out.println("mobileSampleTest");
 	}
-	
+	@Test
 	public void webSampleTest() {
 		// TODO Auto-generated method stub
 		System.out.println("webSampleTest");
+	}
+	
+	@Test
+	public void apiSampleTest() {
+		// TODO Auto-generated method stub
+		System.out.println("apiSampleTest");
 	}
 }
 
