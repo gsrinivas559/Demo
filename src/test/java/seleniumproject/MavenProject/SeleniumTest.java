@@ -10,6 +10,7 @@ public class SeleniumTest {
 		System.out.println("SeleniumTestCase");
 		System.out.println("SeleniumTestCase2");
 		System.out.println("SeleniumTestCase3");
+		System.out.println("SeleniumTestCase4");
 	}
 	
 	@Test

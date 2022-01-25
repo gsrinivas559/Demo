@@ -9,6 +9,7 @@ public class SampleTest {
 	public void mobileTestCase() {
 		// TODO Auto-generated method stub
 		System.out.println("mobileTestCase");
+		System.out.println("apiTestCase");
 	}
 	
 	@Test
